@@ -10,10 +10,10 @@ export { invalidSubcommandError } from "https://deno.land/x/program@0.1.6/_helpe
 
 export { default as ts } from "https://esm.sh/typescript@4.3.4";
 
-export * as postcss from "https://esm.sh/postcss@8.3.5";
-export { default as postcssValueParser } from "https://esm.sh/postcss-value-parser@4.1.0";
-export { default as posthtml } from "https://esm.sh/posthtml@0.9.0";
-export { default as postcssPresetEnv } from "https://esm.sh/postcss-preset-env@6.7.0";
+export * as postcss from "https://esm.sh/postcss@8.4.6";
+export { default as postcssValueParser } from "https://esm.sh/postcss-value-parser@4.2.0";
+export { default as posthtml } from "https://esm.sh/posthtml@0.16.5";
+export { default as postcssPresetEnv } from "https://esm.sh/postcss-preset-env@7.3.3";
 export * as terser from "https://esm.sh/terser@5.7.1";
 export { default as csso } from "https://esm.sh/csso@3.5.1";
 export { default as svgo } from "https://esm.sh/svgo@2.3.1";
