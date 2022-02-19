@@ -1,5 +1,7 @@
 <!-- deno-fmt-ignore-file -->
-# Bundler
+# Deno Bundler
+I have published this module because its corresponding [base module](https://deno.land/x/bundler) seems abandoned and I needed a fix for several projects.
+
 ![Donate](https://img.shields.io/badge/Deno-≥%201.11.0-blue.svg?style=for-the-badge&logo=deno)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge)](https://www.paypal.com/donate?hosted_button_id=ACDW2YV2RTP8A)
 
